@@ -1,0 +1,4 @@
+#sidebar-wrapper > ul > .active {
+    color: #fff;
+    background-color: #555;
+}
